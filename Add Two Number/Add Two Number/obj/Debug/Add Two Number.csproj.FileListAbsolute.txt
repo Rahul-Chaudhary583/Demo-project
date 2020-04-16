@@ -1,0 +1,5 @@
+D:\Basic program C#\Add Two Number\Add Two Number\bin\Debug\Add Two Number.exe.config
+D:\Basic program C#\Add Two Number\Add Two Number\bin\Debug\Add Two Number.exe
+D:\Basic program C#\Add Two Number\Add Two Number\bin\Debug\Add Two Number.pdb
+D:\Basic program C#\Add Two Number\Add Two Number\obj\Debug\Add Two Number.exe
+D:\Basic program C#\Add Two Number\Add Two Number\obj\Debug\Add Two Number.pdb
